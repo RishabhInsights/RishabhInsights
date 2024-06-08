@@ -1,4 +1,4 @@
-- ##👋 Hi, I’m Rishabh Jaiswal
+- ## Hi, I’m Rishabh Jaiswal
 - 🕵️  I'm a data analyst with a passion for uncovering insights from data and making data-driven decisions. Here’s a bit about me:
 - 🔭 I’m currently working on a project on Customer Segmentation Analysis
 - 🌱 I’m currently learning Python, Advance SQL and Machine Learning
