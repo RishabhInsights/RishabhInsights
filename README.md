@@ -19,7 +19,7 @@ Here are some of my projects:
 - [Sales Data Analysis](https://github.com/RishabhInsights/Sales-Analysis): Analyzing sales data to uncover trends and improve business strategies.
 - [User Behaviour of Bike Share company](https://github.com/RishabhInsights/DataVizMagic): Imported data, cleaned and transformed it for analysis and
 extracted insights using PostgreSQL. Visualized the data in Tableau and prepared a detailed project report.
-- [My complete portfolio](kaggle.com/rishabhdatawizard/code)
+- [My complete portfolio](https://www.kaggle.com/rishabhdatawizard/code)
 
 <!---
 RishabhInsights/RishabhInsights is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
