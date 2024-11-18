@@ -1,6 +1,5 @@
 - ## Hi, I’m Rishabh Jaiswal
 - 🕵️  I'm a data analyst with a passion for uncovering insights from data and making data-driven decisions. Here’s a bit about me:
-- 🔭 I’m currently working on a project on Customer Segmentation Analysis
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishjaiswal), [Tableau Profile](https://public.tableau.com/app/profile/rishabh.jaiswal2151/vizzes)
 - 🌱 I’m currently learning Python, Advance SQL and Machine Learning
 - 🧑‍🤝‍🧑 I’m looking to collaborate on: Open-source data science projects
