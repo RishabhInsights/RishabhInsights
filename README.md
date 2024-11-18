@@ -16,7 +16,7 @@
 - ## Projects
 Here are some of my projects:
 
-- [Sales Data Analysis](https://github.com/RishabhInsights/Sales-Analysis): Analyzing sales data to uncover trends and improve business strategies.
+- [Interactive Coffee Sales Dashboard](https://github.com/RishabhInsights/Excel_Project): This project showcases an interactive Excel dashboard designed to analyze coffee sales data. 
 - [User Behaviour of Bike Share company](https://github.com/RishabhInsights/DataVizMagic): Imported data, cleaned and transformed it for analysis and
 extracted insights using PostgreSQL. Visualized the data in Tableau and prepared a detailed project report.
 - [My complete portfolio](https://www.kaggle.com/rishabhdatawizard/code)
