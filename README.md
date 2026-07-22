@@ -1,78 +1,182 @@
-# 🌟 Rishabh Jaiswal - Data Analytics Portfolio 🌟
+<h1 align="center">Hi 👋, I'm Rishabh Jaiswal</h1>
 
-Hello! I'm **Rishabh Jaiswal**, a **Data Analyst** with a passion for transforming data into actionable insights. My journey began in civil engineering, where I honed my analytical thinking and problem-solving skills. Today, I specialize in exploring datasets, building interactive dashboards, and delivering impactful solutions that drive business decisions.
+<h3 align="center">
+Data Analyst • Marketing Analyst • Business Intelligence
+</h3>
 
----
+<p align="center">
+Turning <b>data into actionable business insights</b> through analytics, automation, visualization, and machine learning.
+</p>
 
-## 🚀 **What You'll Find Here**
-This repository showcases my hands-on projects and technical expertise in:
-- **Data Analysis**: Diving into messy datasets to uncover trends and insights.
-- **Data Visualization**: Creating interactive dashboards that bring data to life.
-- **Machine Learning**: Applying predictive modeling techniques to solve real-world problems.
-- **Business Intelligence**: Providing data-driven recommendations for strategic growth.
+<p align="center">
 
----
+<a href="(https://www.linkedin.com/in/rishjaiswal/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ **Highlighted Projects**
-### 📊 **Interactive Dashboards**
-- **[Financial Performance Dashboard](https://github.com/RishabhInsights/FinancialPerformanceAnalysis-PowerBI-Project)** *(Power BI)*  
-  A deep dive into financial metrics like revenue, profit margins, and YoY growth using dynamic slicers and KPIs.  
-  **Key Insight**: Identified consistent revenue growth and highlighted areas for cost optimization.  
+<a href="(https://github.com/RishabhInsights/RishabhInsights)">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- **[Super Store Sales Dashboard](https://github.com/RishabhInsights/SuperStoreSalesDashboard-PowerBI-Project)** *(Power BI)*  
-  Explored sales, profit, and shipment data to pinpoint regional and product-based growth opportunities.  
-  **Key Insight**: Revealed top-performing subcategories and regions driving profit growth.  
+<a href="mailto:jrishabh444@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-### 🤖 **Predictive Analytics**
-- **[Employee Retention Prediction](https://www.kaggle.com/code/rishabhdatawizard/employee-retention-prediction-project)** *(Python)*  
-  Built a machine learning model to predict employee attrition with 93.8% AUC.  
-  **Key Insight**: Identified workload and tenure as top factors influencing attrition.  
-
-- **[Customer Segmentation on Walmart Sales Data](https://www.kaggle.com/code/rishabhdatawizard/customer-segmentation-analysis)** *(Python & SQL)*  
-  Performed K-Means clustering to segment customers based on purchasing behavior.  
-  **Key Insight**: Delivered targeted marketing strategies to improve customer engagement.  
+</p>
 
 ---
 
-### 🛠️ **Data Exploration**
-- **[Music Store Data Analysis](https://github.com/RishabhInsights/MusicStoreDataAnalysis-SQL-Project)** *(SQL)*  
-  Analyzed customer spending and genre popularity to support strategic decisions.  
-  **Key Insight**: Highlighted top-selling genres and revenue-driving regions.
+# 🚀 About Me
+
+I'm an **Executive Data Analyst at JAIN (Deemed-to-be University)** with experience in **Marketing Analytics, CRM Analytics, Business Intelligence, and Financial Analysis**.
+
+I specialize in transforming raw data into meaningful insights by combining **Python, SQL, Power BI, Excel, Google Analytics 4, Google Tag Manager, Google Ads, and CRM Automation**.
+
+My work focuses on helping businesses make better decisions through dashboards, reporting, process automation, and data-driven marketing.
 
 ---
 
-## 🌟 **Why I Love Data**
-I believe every dataset has a story to tell. Whether it’s understanding customer behavior, optimizing workflows, or forecasting trends, I thrive on uncovering insights that help businesses grow. My engineering background gives me a unique perspective on problem-solving, making me both analytical and results-driven.
+# 🛠 Tech Stack
+
+### Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Marketing Analytics
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+
+### CRM & Automation
+
+![LeadSquared](https://img.shields.io/badge/LeadSquared_CRM-0A66C2?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ---
 
-## 🔧 **Tools & Technologies**
-Here’s what I use to bring my ideas to life:
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL)
-- **Data Visualization**: Power BI, Tableau
-- **Machine Learning**: scikit-learn, clustering, regression, classification
-- **Cloud Platforms**: AWS, Google Cloud (BigQuery)
-- **Core Skills**: EDA, trend analysis, business process optimization, KPI tracking
+# 📌 Featured Projects
+
+## 💰 [Three-Statement Financial Model](https://github.com/RishabhInsights/three-statement-financial-model)
+
+Built an end-to-end financial model by converting business transactions into integrated **Income Statement, Balance Sheet, and Cash Flow Statement**, followed by KPI and ratio analysis.
+
+**Tech Stack**
+
+`Excel` `Financial Modeling` `Financial Statement Analysis`
 
 ---
 
-## 🌍 **What I’m Currently Working On**
-- Expanding my knowledge of advanced machine learning algorithms.  
-- Building a **global sales dashboard** that integrates multiple data sources.  
-- Exploring **time-series forecasting** with Python.
+## 📊 [Adventure Works Sales Dashboard](https://github.com/RishabhInsights/Adventure-Works)
+
+Interactive Power BI dashboard analyzing **$24.9M revenue**, **$10.5M profit**, customer behaviour, product performance, and regional sales.
+
+**Tech Stack**
+
+`Power BI` `DAX` `Power Query` `Business Intelligence`
 
 ---
 
-## 📬 **Let’s Connect!**
-I’m always eager to collaborate, learn, and grow. Reach out if you’d like to discuss data analytics, work on a project together, or just chat about data-driven innovation.
+## 🗄️ [Music Store Data Analysis](https://github.com/RishabhInsights/MusicStoreDataAnalysis-SQL-Project)
 
-- **Email**: jrishabh444@gmail.com  
-- **LinkedIn**: [linkedin.com/in/rishjaiswal](https://linkedin.com/in/rishjaiswal)  
-- **Kaggle**: [kaggle.com/rishabhdatawizard](https://kaggle.com/rishabhdatawizard)  
-- **GitHub**: [github.com/RishabhInsights](https://github.com/RishabhInsights)  
+Solved real-world business questions using advanced SQL queries on a relational music store database.
+
+**Tech Stack**
+
+`PostgreSQL` `SQL` `Window Functions` `CTEs`
 
 ---
 
-Thank you for visiting my portfolio! 🚀
+## 🤖 [Employee Retention Prediction](https://www.kaggle.com/code/rishabhdatawizard/employee-retention-prediction-project)
+
+Developed machine learning models achieving **93.8% AUC** for employee attrition prediction using feature engineering and model optimization.
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Machine Learning`
+
+---
+
+# 🏆 Certifications
+
+- Google Advanced Data Analytics Professional Certificate
+- HackerRank SQL Gold Badge
+- PwC Switzerland Power BI Job Simulation
+- British Airways Data Science Job Simulation
+- Accenture North America Data Analytics Job Simulation
+
+---
+
+# 📚 Currently Exploring
+
+- Financial Analysis & Valuation
+- Advanced Power BI & DAX
+- Machine Learning
+- Cloud Data Analytics
+- Business Intelligence Engineering
+- Performance Marketing & Attribution Modeling
+- SEO, SEM & Conversion Rate Optimization (CRO)
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rishjaiswal/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RishabhInsights/RishabhInsights">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/rishabhdatawizard">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ "Without data, you're just another person with an opinion." — W. Edwards Deming
+
+Thanks for visiting my profile!
+
+If you enjoy my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
+
+</p>
